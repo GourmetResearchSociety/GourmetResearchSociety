@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 I got tricked again! Why would people go on the internet and just tell lies? Who does that?!
 また騙された！やっぱりインターネットの情報は嘘ばかり！うわーん！
 -->
+https://github.com/images/mona-whisper.gif
